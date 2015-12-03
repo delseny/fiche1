@@ -1,0 +1,9 @@
+nom:delseny
+nom de photo:png
+prenom:anne
+adresse:77 rue de la saint glagla
+date de naissance:19/04/1931
+Email:memerenoel@polenord.com
+biographie:née en laponie,en formation à codi'n camp.
+projets pro futurs:distribuer lles cadeaux de noel grace à l'informatique.
+hobbies:culture generale,philosophie,velo,course de traineau.   
